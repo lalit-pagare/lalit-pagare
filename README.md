@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India!</h3>
 <img align="right" width="300" src="https://camo.githubusercontent.com/9eb3fdcaa648566c6a055c75fc17dbaf3849b11ede8019397a30d2092fdcd3be/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3262653163655f38363435363739303038343534313865626664363165323937363337343634647e6d76322e676966"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalit-pagare&label=Profile%20views&color=0e75b6&style=flat" alt="lalit-pagare" /> </p>
+<p align="left"> <img align="left" src="https://komarev.com/ghpvc/?username=lalit-pagare&label=Profile%20views&color=0e75b6&style=flat" alt="lalit-pagare" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalit-pagare" alt="lalit-pagare" /></a> </p>
 
