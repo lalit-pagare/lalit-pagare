@@ -1,15 +1,15 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Lalit</h1>
-<h3 align="center">A passionate frontend developer from India!</h3>
+<h3 align="center">A passionate Full Stack Developer.</h3>
 <img align="right" width="300" src="https://camo.githubusercontent.com/9eb3fdcaa648566c6a055c75fc17dbaf3849b11ede8019397a30d2092fdcd3be/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3262653163655f38363435363739303038343534313865626664363165323937363337343634647e6d76322e676966"
 
-- 🔭 I’m currently working on **Fornt end web development.**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **React JS.**
+- 🌱 I’m currently learning **WEB 3.0**
 
 - 👨‍💻 All of my projects are available at [https://lalit-pagare.github.io/Portfolio.github.io/](https://lalit-pagare.github.io/Portfolio.github.io/)
 
-- 💬 Ask me about **HTML,CSS,JavaScrip,Python,C,C++.**
+- 💬 Ask me about **HTML,CSS,JavaScrip,Python,C,C++,Nodejs,Expressjs,SQL,PostgreSQL,MongoDB,EJS,API,UI/UX,Data Structure,Unix/Linux,REST Api,NPM,JSON,Nextjs.**
 
 - 📫 How to reach me **lalitpagarerealme@gmail.com**
 
